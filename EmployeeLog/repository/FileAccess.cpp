@@ -28,7 +28,8 @@ public:
         std::fstream file(FILENAME, std::ios::out | std::ios::in | std::ios::binary);
         Employee currentEmployee;
         file.seekg(0);
-        while(file.read((char*)&currentEmployee, sizeof(Employee)) && strcmp(currentEmployee.name, employee.name) != 0)
+        while(file.read((char*)&currentEmployee, sizeof(Employee))
+        && strcmp(currentEmployee.name, employee.name) != 0)
         {}
 
         if(strcmp(currentEmployee.name, employee.name) == 0) {
