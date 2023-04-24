@@ -1,0 +1,3 @@
+C:/Users/VeselinFMI/Documents/GitHub/Object-oriented-programming-IS-sem-2022-2023/String/cmake-build-debug/CMakeFiles/String.dir
+C:/Users/VeselinFMI/Documents/GitHub/Object-oriented-programming-IS-sem-2022-2023/String/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/VeselinFMI/Documents/GitHub/Object-oriented-programming-IS-sem-2022-2023/String/cmake-build-debug/CMakeFiles/rebuild_cache.dir
