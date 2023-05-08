@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "BasicInheritance",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BasicInheritance::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BasicInheritance-Debug-0d65f90f200cbc9b211b.json",
+					"name" : "BasicInheritance",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/VeselinFMI/Documents/GitHub/Object-oriented-programming-IS-sem-2022-2023/BasicInheritance/cmake-build-debug",
+		"source" : "C:/Users/VeselinFMI/Documents/GitHub/Object-oriented-programming-IS-sem-2022-2023/BasicInheritance"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

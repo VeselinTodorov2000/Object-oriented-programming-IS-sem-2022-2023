@@ -1,0 +1,11 @@
+# ninja log v5
+1	333	7052534749613026	CMakeFiles/BasicInheritanceExample.dir/main.cpp.obj	51f12d077d6812ad
+336	416	7052534750411964	BasicInheritanceExample.exe	f11c0287e01374dc
+2	347	7052537551662740	CMakeFiles/BasicInheritanceExample.dir/main.cpp.obj	51f12d077d6812ad
+347	529	7052537553550251	BasicInheritanceExample.exe	f11c0287e01374dc
+2	329	7052538800354445	CMakeFiles/BasicInheritanceExample.dir/main.cpp.obj	51f12d077d6812ad
+329	397	7052538801022631	BasicInheritanceExample.exe	f11c0287e01374dc
+3	360	7052540103675702	CMakeFiles/BasicInheritanceExample.dir/main.cpp.obj	51f12d077d6812ad
+360	441	7052540104392102	BasicInheritanceExample.exe	f11c0287e01374dc
+3	352	7052540548467297	CMakeFiles/BasicInheritanceExample.dir/main.cpp.obj	51f12d077d6812ad
+352	431	7052540549236529	BasicInheritanceExample.exe	f11c0287e01374dc
