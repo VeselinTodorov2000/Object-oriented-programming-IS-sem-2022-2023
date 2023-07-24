@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.23)
+project(Topic_7__Virtual_methods_and_Abstract_classes)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Topic_7__Virtual_methods_and_Abstract_classes main.cpp)

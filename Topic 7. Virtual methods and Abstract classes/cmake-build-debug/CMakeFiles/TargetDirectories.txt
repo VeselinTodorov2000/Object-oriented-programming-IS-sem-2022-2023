@@ -1,0 +1,3 @@
+C:/Users/VeselinFMI/Documents/GitHub/Object-oriented-programming-IS-sem-2022-2023/Topic 7. Virtual methods and Abstract classes/cmake-build-debug/CMakeFiles/Topic_7__Virtual_methods_and_Abstract_classes.dir
+C:/Users/VeselinFMI/Documents/GitHub/Object-oriented-programming-IS-sem-2022-2023/Topic 7. Virtual methods and Abstract classes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/VeselinFMI/Documents/GitHub/Object-oriented-programming-IS-sem-2022-2023/Topic 7. Virtual methods and Abstract classes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

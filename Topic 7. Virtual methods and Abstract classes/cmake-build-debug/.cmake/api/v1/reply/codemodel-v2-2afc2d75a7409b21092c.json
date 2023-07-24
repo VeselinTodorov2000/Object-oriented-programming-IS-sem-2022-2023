@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Topic_7__Virtual_methods_and_Abstract_classes",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Topic_7__Virtual_methods_and_Abstract_classes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Topic_7__Virtual_methods_and_Abstract_classes-Debug-425f8e9744947ddbf7da.json",
+					"name" : "Topic_7__Virtual_methods_and_Abstract_classes",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/VeselinFMI/Documents/GitHub/Object-oriented-programming-IS-sem-2022-2023/Topic 7. Virtual methods and Abstract classes/cmake-build-debug",
+		"source" : "C:/Users/VeselinFMI/Documents/GitHub/Object-oriented-programming-IS-sem-2022-2023/Topic 7. Virtual methods and Abstract classes"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
